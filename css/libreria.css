@@ -1,0 +1,32 @@
+html,body{
+    background-color: rgb(66,66,66);
+    font-family: 'Open Sans', sans-serif;
+    margin:0px;
+    padding:0px; /*cornice*/
+    border:0px;
+}
+.rettangolo{
+    background-color: rgb(123, 0, 0);
+    width:110%;
+    height:50px;
+    padding:0px; /*cornice*/
+}
+h1{/*TITOLO MANIN_MENU*/
+    color: white;
+    position: relative;
+    left: 10px;
+    bottom:68px;
+}
+.main_menu_opzioni{
+    position:relative;
+    left:80%;
+    bottom:120px;
+}
+a{
+    color:white;
+    margin-right: 5px;
+    text-decoration: none;/*tolgo la SOTTOLINEATURA*/
+
+}
+
+
